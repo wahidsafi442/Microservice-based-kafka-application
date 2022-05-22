@@ -1,0 +1,9 @@
+[
+  {
+    "payment": {
+      "transactionId": "1",
+      "paymentType": "CreditCard",
+      "amount": "1000"
+    }
+  }
+]

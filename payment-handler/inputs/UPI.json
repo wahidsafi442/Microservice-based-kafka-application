@@ -1,0 +1,9 @@
+[
+  {
+    "payment": {
+      "transactionId": "1",
+      "paymentType": "UPI",
+      "amount": "3000"
+    }
+  }
+]

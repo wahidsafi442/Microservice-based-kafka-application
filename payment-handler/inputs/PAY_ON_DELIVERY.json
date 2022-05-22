@@ -1,0 +1,9 @@
+[
+  {
+    "payment": {
+      "transactionId": "1",
+      "paymentType": "PayOnDelivery",
+      "amount": "2000"
+    }
+  }
+]
